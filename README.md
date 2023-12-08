@@ -55,33 +55,42 @@ To start using GitHub, you'll need to:
 3. Create a new repository on GitHub.
 4. Clone the repository to your local machine.
 
-Now, let's dive into each of these steps.
-
-### Step 1: Create a GitHub Account
-
-...
-
-### Step 2: Set Up Git Locally
-
-...
-
-### Step 3: Create a New Repository
-
-...
-
-### Step 4: Clone the Repository
-
-...
-
-## Next Steps
-
-Now that you have a basic understanding of GitHub, let's move on to setting up your first repository.
-
 ---
 
 ## [Setting Up Your First Repository](./setup.md)
 
 ...
+# Setting Up Your First Repository
+
+Now that you have a good understanding of GitHub, let's go ahead and set up your first repository.
+
+## Step 1: Create a New Repository on GitHub
+
+1. Log in to your GitHub account.
+2. On the main page, click on the "+ New" button.
+3. Fill in the repository name, description, and choose the visibility (public or private).
+4. Initialize the repository with a README file if you want to.
+
+![Create Repository](./images/create-repo.png)
+
+5. Click on the "Create repository" button.
+
+## Step 2: Clone the Repository to Your Local Machine
+
+Now, let's bring your newly created repository to your local machine.
+
+1. Copy the HTTPS or SSH URL from the "Code" button on your repository page.
+
+![Clone Repository](./images/clone-repo.png)
+
+2. Open your terminal or command prompt.
+
+3. Navigate to the directory where you want to store your project.
+
+4. Use the following command to clone the repository:
+
+   ```bash
+   git clone <paste-your-repository-url>
 
 ---
 
