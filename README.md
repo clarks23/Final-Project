@@ -42,9 +42,9 @@ Click the green "Create repository" button to finalize the setup.
 
 ### 8. How to Code Your Repository(With Markdown)
 
-Locate the File:
+- Locate the File:
 
-Find the file you want to edit within the repository. It could be the README.md or any other Markdown file.
+- Find the file you want to edit within the repository. It could be the README.md or any other Markdown file.
 Click on the Edit Button:
 
 On the file's page, click the "Edit" button. This typically looks like a pencil icon and is located near the top-right corner of the file view.
@@ -68,12 +68,9 @@ Verify Your Changes:
 GitHub will automatically update the file in your repository with your new Markdown content. You can go back to the main repository page to see the changes.
 Done!
 
-You've successfully written and committed Markdown code directly on GitHub using the web editor.
-Remember to refer to the GitHub Markdown guide for more advanced formatting options: [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### You've successfully written and committed Markdown code directly on GitHub using the web editor.
+
+Remember to refer to the GitHub Markdown guide for more advanced formatting options:
+
+[GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 ---
-
-## Congratulations!
-
-You've successfully embarked on your GitHub journey by creating your first repository. This tutorial lays the groundwork for understanding fundamental GitHub concepts. As you delve deeper into your projects, explore additional features and advanced functionalities that GitHub has to offer.
-
-Happy coding and collaborating!
