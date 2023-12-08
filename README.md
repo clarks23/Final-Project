@@ -6,7 +6,7 @@
 
 ## Overview
 
-Welcome to the GitHub Tutorial by Clark Sanford. This comprehensive guide is tailored for beginners, providing a step-by-step walkthrough on creating your inaugural repository on GitHub. Harness the power of version control and collaboration with this hands-on tutorial.
+Welcome to the GitHub Tutorial. This comprehensive guide is tailored for beginners, providing a step-by-step walkthrough for creating your first repository on GitHub. Harness the power of version control and collaboration with this hands-on tutorial.
 
 ---
 
