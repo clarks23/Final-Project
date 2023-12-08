@@ -18,39 +18,3 @@ Welcome to the GitHub Tutorial by Clark Sanford. This tutorial is designed to pr
 4. [Collaborating with Others](#collaborating-with-others)
 5. [Best Practices](#best-practices)
 6. [Conclusion](#conclusion)
-
----
-
-## [Introduction to GitHub](./introduction.md)
-
-...
-
----
-
-## [Setting Up Your First Repository](./setup.md)
-
-...
-
----
-
-## [Branching and Merging](./branching.md)
-
-...
-
----
-
-## [Collaborating with Others](./collaboration.md)
-
-...
-
----
-
-## [Best Practices](./best_practices.md)
-
-...
-
----
-
-## [Conclusion](./conclusion.md)
-
-...
